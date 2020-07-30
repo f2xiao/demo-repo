@@ -1,12 +1,16 @@
 # Resources and References
 
 After graduated and worked full-time for a while, I feel lost at the beginning when I tried to self-leaning programming. The reason is that because I am so eager to achieve something or just magically learn everything in a short time. But the truth is no, there's no shortcut and a strategy of learning is needed to avoid being overwhelmed by a lot of information and get frustrated. Thanks for this course that I find on Coursera that provides a lot of information about how to use your brain wisely, making leaning a breeze daily.
-I would recommend everyone in a similar situation to start with this course first:[Learning how to learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+I would recommend everyone in a similar situation to start with this course first:
+
+[Learning how to learn on Coursera](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 I read it seomwhere that:
 > Data+Algorithms=Programming
 
-Therefore, I would recommend an introduction course about how data is manipulated and basic algorithms that are used, for example:[CS50 from Harvard](https://cs50.harvard.edu/x/2020/)
+Therefore, I would recommend an introduction course about how data is manipulated and basic algorithms that are used, for example:
+
+[CS50 from Harvard](https://cs50.harvard.edu/x/2020/)
 
 1. [Resources to learn Git](https://try.github.io)
 2. [Command Line Reference](https://ss64.com)
