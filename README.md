@@ -22,7 +22,7 @@ Therefore, I would recommend an introduction course about how data is manipulate
    [Tag attributes](https://www.w3schools.com/tags/ref_attributes.asp)
    [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements#Elements)   
 7. [Regex](https://regex101.com)   
-8. [Facts and myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+8. [Facts and myths about Python names and values:](https://www.youtube.com/watch?v=_AEJHKGk9ns)
     >Assignment never copies data.
     Python is neither "Call By value" nor "Call By Reference", it's "Call by Assignment"!
     There is no way in python where a name can refer to another name. A name can only refer to values:   
