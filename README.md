@@ -4,9 +4,9 @@ After graduated and worked full-time for a while, I feel lost at the beginning w
 I would recommend everyone in a similar situation to start with this course first.
     https://www.coursera.org/learn/learning-how-to-learn/home/welcome
 
-1.  Resources to learn Git
+1.  Resources to learn Git \n
     https://try.github.io
-2. Command Line Reference
+2. Command Line Reference\n
     https://ss64.com
 3. HTTP Status Codes
     https://httpstatuses.com
