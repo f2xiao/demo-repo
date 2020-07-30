@@ -12,6 +12,8 @@ Therefore, I would recommend an introduction course about how data is manipulate
 
 [CS50 from Harvard](https://cs50.harvard.edu/x/2020/)
 
+I believe a soild understanding of fundementals and familarity with common terms can make reading technical documents a lot earier and fun later :). 
+
 1. [Resources to learn Git](https://try.github.io)
 2. [Command Line Reference](https://ss64.com)
 3. [HTTP Status Codes](https://httpstatuses.com)
